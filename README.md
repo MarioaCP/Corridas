@@ -1,3 +1,4 @@
-# Corridas
+# 3.6 CORRIDA, DOCUMENTACIÓN Y LOOM-EJECUCIÓN
 # Chavez Pulido Mario Alberto 
 # 18210464
+
